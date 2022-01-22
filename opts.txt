@@ -1,0 +1,91 @@
+# Flow
+if
+else
+while
+for
+do
+
+# Comparison
+==
+!=
+<
+>
+<=
+>=
+&&
+||
+!
+
+# Comments
+//
+/* */
+
+# Block
+{}
+()
+[]
+
+# Declarators
+function (function)
+function (arrow)
+class
+let
+const
+var
+
+# Keywords
+new
+return
+yeild
+import
+export
+from
+as
+in
+of
+extends
+super
+
+# Operators
++
+-
+*
+/
+%
+++
+--
+=
++=
+-=
+*=
+/=
+%=
+
+# Punctuation
+;
+,
+.
+:
+
+# Values
+true
+false
+null
+undefined
+NaN
+Infinity
+
+# Common
+console.log
+Math.random
+Math.floor
+Math.ceil
+Math.round
+this
+
+# DOM
+document.getElementById
+document.getElementsByClassName
+document.querySelector
+document.querySelectorAll
+document.createElement
